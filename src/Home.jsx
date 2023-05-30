@@ -13,7 +13,7 @@ function Home() {
     let name = location.state
     return (
         <div>
-                    <div id="content-wrapper" className="d-flex flex-column bg-light">
+                    <div id="content-wrapper" className="d-flex flex-column bg-light" >
                         <div id="content">
                             <Nav Name={name}></Nav>
                             <div className="container-fluid">
