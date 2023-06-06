@@ -7,7 +7,6 @@ import {LINKS} from "./global"
 
 
 
-
 export default function SignUp() {
   const navigate = useNavigate();
   const [buttonw, setButtonw] = useState("success")
