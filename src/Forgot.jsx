@@ -4,7 +4,6 @@ import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import {LINKS} from "./global"
 
-
 export default function Forgot() {
 
   const {values,handleChange,handleSubmit}=useFormik({
